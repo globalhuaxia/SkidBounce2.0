@@ -1,3 +1,18 @@
+!!!!
+OH guys,Src is bad,so you need download new jar of me
+
+
+
+
+
+
+
+
+
+
+
+
+
 # client?
 A hacked-client for Minecraft 1.8.9 Forge.
 No Discord
@@ -7,7 +22,7 @@ skidding:
 * [FDPClient](https://github.com/SkidderMC/FDPClient)
 * [NightX](https://github.com/Aspw-w/NightX-Client)
 * [CrossSine](https://github.com/shxp3/CrossSine)
-* [LiquidBouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn)
+* [LiquidBouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) 
 * Bypass from DEVio32,Lan@4,Xit***2,E-sound
 * Have low update
 * +Intave noslow
